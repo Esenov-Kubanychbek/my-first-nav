@@ -1,7 +1,11 @@
+*{
+    margin: 0;
+}
 nav ul{
     display: flex;
     justify-content: space-between;
     max-width: 850px;
+    margin: 0 auto;
 }
 nav ul li{
     list-style-type: none;
