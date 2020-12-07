@@ -1,6 +1,10 @@
 *{
     margin: 0;
 }
+nav{
+    background-color: black;
+    
+}
 nav ul{
     display: flex;
     justify-content: space-between;
@@ -14,4 +18,5 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
+    color: rgba(255, 255, 255, 0.801);
 }
