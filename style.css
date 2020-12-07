@@ -6,6 +6,8 @@ nav ul{
     justify-content: space-between;
     max-width: 850px;
     margin: 0 auto;
+    margin-top:20px ;
+    padding: 10px;
 }
 nav ul li{
     list-style-type: none;
