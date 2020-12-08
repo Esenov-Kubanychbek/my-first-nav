@@ -34,3 +34,9 @@ nav ul li a:active{
     background-color: white;
     color: black;
 }
+#nav2{
+    background-color: gray;
+}
+#nav2 ul li a{
+    color: greenyellow;
+}
