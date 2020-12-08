@@ -57,11 +57,12 @@ nav ul li i img{
 }
 #nav2 ul li{
     list-style-type: none;
+    margin: 30px;
 }
 #nav2 ul li a{
     text-decoration: none;
     padding: 10px;
 }
-#nav2 ul li:last-child{
-    margin-right: 30px;
+#i1{
+    margin-left: 150px;
 }
