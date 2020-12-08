@@ -43,7 +43,7 @@
 #nav2 ul {
     display: flex;
     justify-content: space-between;
-   
+   max-width: 1200px;
 }
 #nav2 ul li a{
     color: greenyellow;
