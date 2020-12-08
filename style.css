@@ -36,12 +36,14 @@
 }
 #nav2{
     background-color:rgba(228, 228, 228, 0.301);
-    margin: 0;
+    margin-top: 10px;
+    padding: 10px;
     
 }
 #nav2 ul {
     display: flex;
     justify-content: space-between;
+   
 }
 #nav2 ul li a{
     color: greenyellow;
@@ -58,4 +60,5 @@ nav ul li i img{
 }
 #nav2 ul li a{
     text-decoration: none;
+    padding: 10px;
 }
