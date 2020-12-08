@@ -35,8 +35,12 @@ nav ul li a:active{
     color: black;
 }
 #nav2{
-    background-color: gray;
+    background-color:rgba(228, 228, 228, 0.301);
 }
 #nav2 ul li a{
     color: greenyellow;
+}
+nav ul li i img{
+    width: 30px;
+    height: 20px;
 }
