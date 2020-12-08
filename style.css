@@ -40,9 +40,9 @@
     padding: 10px;
     
 }
-#nav2 ul {
+#nav2 ul{
     display: flex;
-    justify-content: space-between;
+    
    max-width: 1200px;
 }
 #nav2 ul li a{
@@ -61,4 +61,7 @@ nav ul li i img{
 #nav2 ul li a{
     text-decoration: none;
     padding: 10px;
+}
+#nav2 ul li:last-child{
+    margin-right: 30px;
 }
