@@ -37,9 +37,15 @@
 #nav2{
     background-color:rgba(228, 228, 228, 0.301);
     margin: 0;
+    
+}
+#nav2 ul {
+    display: flex;
+    justify-content: space-between;
 }
 #nav2 ul li a{
     color: greenyellow;
+    
     
 }
 nav ul li i img{
