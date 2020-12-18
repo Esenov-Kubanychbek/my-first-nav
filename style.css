@@ -79,4 +79,5 @@ main h1{
     text-align: center;
     padding: 10px;
     color: red;
+    text-shadow: 0 4px 5px rgb(73, 0, 0);
 }
