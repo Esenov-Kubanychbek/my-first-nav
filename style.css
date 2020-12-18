@@ -86,6 +86,10 @@ main p{
     color: indigo;
     font-size: 20px;
 }
-.div div img{
-    width: 400px;
+.div div{
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: red;
 }
