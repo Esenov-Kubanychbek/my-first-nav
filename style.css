@@ -75,3 +75,7 @@ main{
     margin: 0 auto;
     
 }
+main h1{
+    text-align: center;
+    padding: 10px;
+}
