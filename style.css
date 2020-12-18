@@ -66,3 +66,12 @@ nav ul li i img{
 #i1{
     margin-left: 150px;
 }
+#nav2 ul li a:hover{
+    background-color: black;
+    color: white;
+}
+main{
+    max-width: 850px;
+    margin: 0 auto;
+    
+}
