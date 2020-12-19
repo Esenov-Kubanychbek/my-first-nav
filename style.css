@@ -87,9 +87,11 @@ main p{
     font-size: 20px;
 }
 .div div{
+        
+    box-shadow: 0 8px 10px royalblue;
     overflow: hidden;
-    height: 400px;
-    width: 400px;
+    height: 200px;
+    width: 200px;
     border-radius: 400px;
     background-color: red;
 }
