@@ -106,3 +106,7 @@ main p{
     transform: scale(1.2);
     transition: 1s;
 }
+table, tr, td{
+    border: 1px solid black;
+    
+}
