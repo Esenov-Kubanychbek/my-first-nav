@@ -88,9 +88,11 @@ main p{
 }
 .div{
     display: flex;
+    padding: 20px;
 
 }
 .div div{
+    
     box-shadow: 0 8px 10px royalblue;
     overflow: hidden;
     height: 200px;
