@@ -86,8 +86,11 @@ main p{
     color: indigo;
     font-size: 20px;
 }
+.div{
+    display: flex;
+
+}
 .div div{
-        
     box-shadow: 0 8px 10px royalblue;
     overflow: hidden;
     height: 200px;
