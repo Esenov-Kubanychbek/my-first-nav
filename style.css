@@ -108,5 +108,5 @@ main p{
 }
 table, tr, td{
     border: 1px solid black;
-    
+    margin: 0 auto;
 }
